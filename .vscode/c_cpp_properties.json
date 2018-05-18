@@ -1,0 +1,43 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:/Program Files (x86)/Arduino/hardware/arduino/avr/cores/arduino",
+                "C:/Users/mrmhk/Documents/Arduino/libraries/I2Cdev",
+                "C:/Users/mrmhk/Documents/Arduino/libraries/MPU6050",
+                "C:/Users/mrmhk/Documents/Arduino/libraries/RF433Mhz-master",
+                "C:/Users/mrmhk/Documents/Arduino/libraries/TM1637",
+                "C:/Users/mrmhk/Documents/Arduino/libraries/NewliquidCrystal",
+                "C:/Users/mrmhk/Documents/Arduino/libraries/LEDMatrixDriver/src",
+                "C:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries/Wire/src",
+                "C:/Program Files (x86)/Arduino/hardware/tools/avr/avr/include",
+                "C:/Program Files (x86)/Arduino/hardware/tools/avr/lib/gcc/avr/4.9.2/include",
+                "C:/Users/mrmhk/AppData/Local/Arduino15/packages/digistump/hardware/avr/1.6.7/cores/license.txt",
+                "C:/Users/mrmhk/AppData/Local/Arduino15/packages/digistump/hardware/avr/1.6.7/cores/pro",
+                "C:/Users/mrmhk/AppData/Local/Arduino15/packages/digistump/hardware/avr/1.6.7/cores/tiny"
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": false,
+                "path": [
+                    "C:/Program Files (x86)/Arduino/hardware/arduino/avr/cores/arduino",
+                    "${workspaceRoot}",
+                    "C:/Users/mrmhk/Documents/Arduino/libraries/I2Cdev",
+                    "C:/Users/mrmhk/Documents/Arduino/libraries/MPU6050",
+                    "C:/Users/mrmhk/Documents/Arduino/libraries/RF433Mhz-master",
+                    "C:/Users/mrmhk/Documents/Arduino/libraries/TM1637",
+                    "C:/Users/mrmhk/Documents/Arduino/libraries/NewliquidCrystal",
+                    "C:/Users/mrmhk/Documents/Arduino/libraries/LEDMatrixDriver/src",
+                    "C:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries/Wire/src",
+                    "C:/Program Files (x86)/Arduino/hardware/tools/avr/avr/include",
+                    "C:/Program Files (x86)/Arduino/hardware/tools/avr/lib/gcc/avr/4.9.2/include",
+                    "C:/Users/mrmhk/AppData/Local/Arduino15/packages/digistump/hardware/avr/1.6.7/cores/license.txt",
+                    "C:/Users/mrmhk/AppData/Local/Arduino15/packages/digistump/hardware/avr/1.6.7/cores/pro",
+                    "C:/Users/mrmhk/AppData/Local/Arduino15/packages/digistump/hardware/avr/1.6.7/cores/tiny"
+                ]
+            },
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}

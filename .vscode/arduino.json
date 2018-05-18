@@ -1,0 +1,7 @@
+{
+    "board": "arduino:avr:nano",
+    "port": "COM4",
+    "sketch": "Jennifer.ino",
+    "output": "output",
+    "configuration": "cpu=atmega328"
+}

@@ -1,0 +1,132 @@
+[
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\cores\\arduino"
+  },
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\variants\\eightanaloginputs"
+  },
+  {
+    "Sourcefile": "d:\\_Engineering\\Projects\\Jennifer\\output\\sketch\\Jennifer.ino.cpp",
+    "Include": "MPU6050.h",
+    "Includepath": "C:\\Users\\mrmhk\\Documents\\Arduino\\libraries\\MPU6050"
+  },
+  {
+    "Sourcefile": "d:\\_Engineering\\Projects\\Jennifer\\output\\sketch\\Jennifer.ino.cpp",
+    "Include": "I2Cdev.h",
+    "Includepath": "C:\\Users\\mrmhk\\Documents\\Arduino\\libraries\\I2Cdev"
+  },
+  {
+    "Sourcefile": "d:\\_Engineering\\Projects\\Jennifer\\output\\sketch\\Jennifer.ino.cpp",
+    "Include": "Wire.h",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\libraries\\Wire\\src"
+  },
+  {
+    "Sourcefile": "d:\\_Engineering\\Projects\\Jennifer\\output\\sketch\\Jennifer.ino.cpp",
+    "Include": "EEPROM.h",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\libraries\\EEPROM\\src"
+  },
+  {
+    "Sourcefile": "d:\\_Engineering\\Projects\\Jennifer\\output\\sketch\\Jennifer.ino.cpp",
+    "Include": "LiquidCrystal_I2C.h",
+    "Includepath": "C:\\Users\\mrmhk\\Documents\\Arduino\\libraries\\NewliquidCrystal"
+  },
+  {
+    "Sourcefile": "d:\\_Engineering\\Projects\\Jennifer\\output\\sketch\\Jennifer.ino.cpp",
+    "Include": "TM1637Display.h",
+    "Includepath": "C:\\Users\\mrmhk\\Documents\\Arduino\\libraries\\TM1637"
+  },
+  {
+    "Sourcefile": "d:\\_Engineering\\Projects\\Jennifer\\output\\sketch\\Jennifer.ino.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\mrmhk\\Documents\\Arduino\\libraries\\MPU6050\\MPU6050.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\mrmhk\\Documents\\Arduino\\libraries\\I2Cdev\\I2Cdev.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\libraries\\Wire\\src\\Wire.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\libraries\\Wire\\src\\utility\\twi.c",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\mrmhk\\Documents\\Arduino\\libraries\\NewliquidCrystal\\FastIO.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\mrmhk\\Documents\\Arduino\\libraries\\NewliquidCrystal\\I2CIO.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\mrmhk\\Documents\\Arduino\\libraries\\NewliquidCrystal\\LCD.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\mrmhk\\Documents\\Arduino\\libraries\\NewliquidCrystal\\LiquidCrystal.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\mrmhk\\Documents\\Arduino\\libraries\\NewliquidCrystal\\LiquidCrystal_I2C.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\mrmhk\\Documents\\Arduino\\libraries\\NewliquidCrystal\\LiquidCrystal_I2C_ByVac.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\mrmhk\\Documents\\Arduino\\libraries\\NewliquidCrystal\\LiquidCrystal_SI2C.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\mrmhk\\Documents\\Arduino\\libraries\\NewliquidCrystal\\LiquidCrystal_SR.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\mrmhk\\Documents\\Arduino\\libraries\\NewliquidCrystal\\LiquidCrystal_SR1W.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\mrmhk\\Documents\\Arduino\\libraries\\NewliquidCrystal\\LiquidCrystal_SR2W.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\mrmhk\\Documents\\Arduino\\libraries\\NewliquidCrystal\\LiquidCrystal_SR3W.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\mrmhk\\Documents\\Arduino\\libraries\\NewliquidCrystal\\SI2CIO.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\mrmhk\\Documents\\Arduino\\libraries\\TM1637\\TM1637Display.cpp",
+    "Include": "",
+    "Includepath": ""
+  }
+]
